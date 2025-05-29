@@ -8,4 +8,4 @@ _My profile emoji can mean the following:_
 💻 - Working on a new project
 ☕ - On a break
 
-https://github.com/user-attachments/assets/b2a71864-6e41-481c-bf5d-3c88a478aceb
+https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif
