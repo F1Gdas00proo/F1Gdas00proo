@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone👋 I just started learning Dart, Flutter. Don't judge me harshly😘
 
 **F1Gdas00proo/F1Gdas00proo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
