@@ -15,4 +15,4 @@ _My profile emoji can mean the following:_
 
 ☕ - On a break
 
-[Chipi-Chapa](https://tenor.com/ru/view/chipi-chipi-chapa-chapa-cat-gif-2724505493463639324)
+[Chipi-Chapa](https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif)
