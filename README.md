@@ -1,8 +1,10 @@
 ## **Hello Everyone👋** **I just started learning Dart, Flutter. Don't judge me harshly😘**
 
-[Telegram](https://t.me/f1gdas00proo)
+<a href="https://t.me/yourchannel">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" alt="Telegram icon" height="24"/>
+</a>[Telegram](https://t.me/f1gdas00proo)
 
-<a href="https://vk.com/yourpage"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vk.svg" alt="VK Link" height="24"></a>[VKontakte](https://vk.com/f1gdas00proo)
+[VKontakte](https://vk.com/f1gdas00proo)
 
 _My profile emoji can mean the following:_
 
