@@ -3,16 +3,17 @@
 [//]: # (Отображение количества посетителей)
 
 <div align="center">
-  <p><b>Visitors:</b></p>
-  <br />
-  <a href="[URL_TO_ANALYTICS_PAGE](https://github.com/F1Gdas00proo/F1Gdas00proo)"><img src="https://img.shields.io/badge/visitors-1000-brightblack"></a>
+  <p><b>Посетители:</b></p>
+  <a href="URL_TO_ANALYTICS_PAGE"><img src="https://img.shields.io/badge/visitors-1-black"></a>
 </div>
 
-[Telegram](https://t.me/f1gdas00proo)
+_🌐My social networks🌐_
 
-[VKontakte](https://vk.com/f1gdas00proo)
+[<img alt="Telegram" width="20px" height="20px" style="vertical-align:middle;" src="https://img.icons8.com/color/20/0000ff/telegram-app.png"/>](https://t.me/f1gdas00proo)[Telegram](https://t.me/f1gdas00proo)
 
-_My profile emoji can mean the following:_
+[<img alt="VKontakte" width="20px" height="20px" style="vertical-align:middle;" src="https://img.icons8.com/color/20/0000ff/vk-circled.png"/>](https://vk.com/f1gdas00proo)[VKontakte](https://vk.com/f1gdas00proo)
+
+_📌My profile emoji can mean the following📌_
 
 🎮 - Playing in the games right now
 
