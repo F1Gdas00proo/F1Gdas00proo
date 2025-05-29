@@ -17,7 +17,7 @@ _📌My profile emoji can mean the following📌_
 
 🎮 - Playing in the games right now
 
-☂️ - On vacation right now
+🌊 - On vacation right now
 
 💤 - Sleep
 
