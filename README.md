@@ -4,7 +4,7 @@
 
 <div align="center">
   <p><b>Посетители:</b></p>
-  <a href="URL_TO_ANALYTICS_PAGE"><img src="https://img.shields.io/badge/visitors-1-black"></a>
+  <a href="F1Gdas00proo"><img src="https://img.shields.io/badge/visitors-1-black"></a>
 </div>
 
 _🌐My social networks🌐_
