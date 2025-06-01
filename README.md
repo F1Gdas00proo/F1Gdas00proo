@@ -7,6 +7,14 @@
   <a href="F1Gdas00proo"><img src="https://img.shields.io/badge/visitors-1-black"></a>
 </div>
 
+_💪My Skills💪_
+
+<a href="https://flutter.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flutter.svg" alt="Flutter Logo" title="Flutter Website" width="48"/></a>  **Flutter**
+
+<a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dart.svg" alt="Dart Logo" title="Dart Website" width="48"/></a>  **Dart**
+
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/androidstudio.svg" alt="Android Studio Logo" title="Android Studio Website" width="48"/></a> **Android Studio**
+
 _🌐My social networks🌐_
 
 [<img alt="Telegram" width="20px" height="20px" style="vertical-align:middle;" src="https://img.icons8.com/color/20/0000ff/telegram-app.png"/>](https://t.me/f1gdas00proo)[Telegram](https://t.me/f1gdas00proo)
