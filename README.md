@@ -1,4 +1,4 @@
-## **Hello Everyone👋** **I just started learning Dart, Flutter. Don't judge me harshly(😘)[https://vk.com/gooutfrommypage]**
+## **Hello Everyone👋** **I just started learning Dart, Flutter. Don't judge me harshly[😘](https://vk.com/gooutfrommypage)**
 
 [//]: # (Отображение количества посетителей)
 
